@@ -1,0 +1,6 @@
+{
+  "name": "Suriya Uthai Phimai Student Grade Report 2026",
+  "description": "ระบบตรวจสอบผลการเรียนออนไลน์ ปีการศึกษา 2569 โรงเรียนอนุบาลสุริยาอุทัยพิมาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
